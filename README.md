@@ -45,7 +45,7 @@ An interactive, fail-safe Shell CLI utility for macOS that fetches available mac
 ### 1. Launch the Interactive Wizard
 
 ```bash
-cd /macos-usb-creator
+cd /<folder where you downloaded the below script file>
 ./macos_recovery_usb.sh
 ```
 
